@@ -1,0 +1,33 @@
+{
+  "name": "dungeons_arise:mechanical_nest/mechanical_nest_crossing",
+  "fallback": "dungeons_arise:mechanical_nest/mechanical_nest_terminators",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_crossing_0",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_crossing_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_bridge_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
