@@ -3,6 +3,6 @@
   "values": [
     "minecraft:swamp",
     "minecraft:mangrove_swamp",
-    "#minecraft:is_taiga"
+    "#minecraft:is_forest"
   ]
 }
