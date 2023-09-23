@@ -1,14 +1,14 @@
 {
     "display": {
         "title": {
-            "translate": "advancement.dungeons_arise.find_scorched_mines.title",
-            "color": "dark_red"
+            "translate": "advancement.dungeons_arise.find_mechanical_nest.title",
+            "color": "red"
         },
         "description": {
-            "translate": "advancement.dungeons_arise.find_scorched_mines.desc"
+            "translate": "advancement.dungeons_arise.find_mechanical_nest.desc"
         },
         "icon": {
-            "item": "minecraft:blaze_powder"
+            "item": "minecraft:redstone_lamp"
         },
         "frame": "task",
         "show_toast": true,
@@ -25,7 +25,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "structure": "dungeons_arise:scorched_mines"
+                "structure": "dungeons_arise:mechanical_nest"
               }
             }
           }
@@ -34,5 +34,5 @@
     }
   },
   "requirements": [["location0"]],
-  "parent": "dungeons_arise:wda_root"
+  "parent": "dungeons_arise:small_blimp"
 }

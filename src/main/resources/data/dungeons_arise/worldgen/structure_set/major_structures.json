@@ -1,48 +1,8 @@
 {
   "structures": [
     {
-      "structure": "dungeons_arise:aviary",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:bandit_towers",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:foundry",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:heavenly_challenger",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:thornborn_towers",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:infested_temple",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:mining_system",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:plague_asylum",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:shiraz_palace",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:keep_kayra",
-      "weight": 1
-    },
-    {
-      "structure": "dungeons_arise:mechanical_nest",
-      "weight": 1
+      "structure": "dungeons_arise:wishing_well",
+      "weight": 3
     }
   ],
   "placement": {
