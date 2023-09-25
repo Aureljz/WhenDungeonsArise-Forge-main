@@ -8,11 +8,11 @@
             "translate": "advancement.dungeons_arise.find_mechanical_nest.desc"
         },
         "icon": {
-            "item": "minecraft:redstone_lamp"
+            "item": "minecraft:observer"
         },
         "frame": "task",
         "show_toast": true,
-        "announce_to_chat": false,
+        "announce_to_chat": true,
         "hidden": false
     },
   "criteria": {
@@ -34,5 +34,5 @@
     }
   },
   "requirements": [["location0"]],
-  "parent": "dungeons_arise:small_blimp"
+  "parent": "dungeons_arise:find_small_blimp"
 }

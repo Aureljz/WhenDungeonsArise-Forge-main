@@ -27,5 +27,7 @@
   "filled_map.dungeons_arise:heavenly_challenger": "Mapa do Explorador do Desafiante Celestial",
   "filled_map.dungeons_arise:illager_corsair": "Mapa do Explorador Illager Corsair",
   "filled_map.dungeons_arise:illager_galley": "Mapa do Explorador da Galera Illager",
-  "filled_map.dungeons_arise:mushroom_house": "Mapa do Explorador da Casa do Cogumelo"
+  "filled_map.dungeons_arise:mushroom_house": "Mapa do Explorador da Casa do Cogumelo",
+  "advancement.dungeons_arise.find_mechanical_nest.title": "Welcome To The Machine",
+  "advancement.dungeons_arise.find_mechanical_nest.desc": "Find a Mechanical Nest"
 }

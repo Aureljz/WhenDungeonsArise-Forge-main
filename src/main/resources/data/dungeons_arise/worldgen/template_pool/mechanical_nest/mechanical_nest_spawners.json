@@ -1,11 +1,11 @@
 {
-  "name": "dungeons_arise:mechanical_nest/mechanical_nest_towers",
-  "fallback": "dungeons_arise:mechanical_nest/mechanical_nest_terminators",
+  "name": "dungeons_arise:mechanical_nest/mechanical_nest_spawners",
+  "fallback": "dungeons_arise:mechanical_nest/mechanical_nest_spawners",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_0",
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_spawner_0",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -14,7 +14,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_1",
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_spawner_1",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -23,7 +23,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_2",
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_spawner_2",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -32,7 +32,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_3",
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_spawner_3",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -41,7 +41,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_4",
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_spawner_4",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -50,7 +50,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_5",
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_spawner_5",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -59,25 +59,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special",
-        "processors": "dungeons_arise:mechanical_nest_main",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special",
-        "processors": "dungeons_arise:mechanical_nest_main",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special",
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_spawner_6",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
