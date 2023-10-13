@@ -10,7 +10,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '2.1.56.1'
+version = '2.1.57'
 group = 'net.aurelj.dungeons_arise' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'dungeons_arise'
 

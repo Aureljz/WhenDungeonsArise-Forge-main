@@ -102,6 +102,15 @@
       }
     },
     {
+      "weight": 1,
+      "element": {
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_bridge_11_special",
+        "processors": "dungeons_arise:mechanical_nest_main",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
       "weight": 2,
       "element": {
         "location": "dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_0",
@@ -123,6 +132,15 @@
       "weight": 2,
       "element": {
         "location": "dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2",
+        "processors": "dungeons_arise:mechanical_nest_main",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_6",
         "processors": "dungeons_arise:mechanical_nest_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
