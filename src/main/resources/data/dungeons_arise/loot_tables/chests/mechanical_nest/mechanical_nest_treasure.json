@@ -14,8 +14,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 10
+                "min": 2,
+                "max": 8
               }
             }
           ]
@@ -54,7 +54,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 44
+                "max": 32
               }
             }
           ]
@@ -129,7 +129,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Heroe´s Potion\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomPotionEffects:[{Id:1,Amplifier:0b,Duration:1200},{Id:5,Amplifier:1b,Duration:1200},{Id:11,Amplifier:2b,Duration:1200}],CustomPotionColor:16777001}"
+              "tag": "{display:{Name:'{\"text\":\"Hero Potion\",\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}'},CustomPotionEffects:[{Id:1,Amplifier:0b,Duration:1200},{Id:5,Amplifier:1b,Duration:1200},{Id:11,Amplifier:2b,Duration:1200}],CustomPotionColor:16777001}"
             }
           ]
         }

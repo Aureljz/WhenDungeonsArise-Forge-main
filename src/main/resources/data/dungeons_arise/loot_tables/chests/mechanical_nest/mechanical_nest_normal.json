@@ -9,19 +9,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:copper_ingot",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 10,
-                "max": 25
-              }
-            }
-          ]
+          "name": "minecraft:netherite_scrap"
         },
         {
           "type": "minecraft:item",
+          "weight": 60,
           "name": "minecraft:diamond",
           "functions": [
             {
@@ -35,6 +27,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 50,
           "name": "minecraft:redstone",
           "functions": [
             {
@@ -48,6 +41,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 50,
           "name": "minecraft:redstone_block",
           "functions": [
             {
@@ -61,12 +55,13 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 50,
           "name": "minecraft:iron_ingot",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
+                "min": 18,
                 "max": 26
               }
             }
@@ -74,12 +69,13 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 50,
           "name": "minecraft:gold_ingot",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 6,
+                "min": 18,
                 "max": 24
               }
             }
