@@ -29,8 +29,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 8,
-                "max": 12
+                "min": 12,
+                "max": 16
               }
             }
           ]
@@ -43,7 +43,7 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "min": 20,
-                "max": 25
+                "max": 30
               }
             }
           ]
@@ -86,14 +86,14 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 15,
+          "weight": 20,
           "name": "minecraft:diamond",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 5
+                "min": 2,
+                "max": 6
               }
             }
           ]

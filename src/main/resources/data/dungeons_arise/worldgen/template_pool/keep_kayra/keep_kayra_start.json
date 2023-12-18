@@ -1,5 +1,5 @@
 {
-  "name": "dungeons_arise:fortified/keep_kayra/keep_kayra_start",
+  "name": "dungeons_arise:keep_kayra/keep_kayra_start",
   "fallback": "minecraft:empty",
   "elements": [
     {
